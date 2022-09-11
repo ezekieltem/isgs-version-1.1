@@ -1,0 +1,20 @@
+{
+  "name": "2--version-1.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "bot": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.5.0",
+    "discord-api-types": "^0.33.5",
+    "discord.js": "^13.8.0",
+    "firebase-admin": "^10.3.0",
+    "noblox.js": "^4.13.1"
+  }
+}
